@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Project derived from Kodeko that displays a list of news articles using material 3 components. 
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-10-18 at 13 14 58](https://github.com/JonnySueck/News-app/assets/36180489/a203be81-2c62-4bde-bdfe-831f17b8f0e5)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Detail screen that shows the article details.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="472" alt="Screenshot 2023-10-18 at 1 15 58 PM" src="https://github.com/JonnySueck/News-app/assets/36180489/ca4b03e8-7a40-4f10-8750-f9e3970a3d89">
